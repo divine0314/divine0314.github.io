@@ -1,0 +1,4 @@
+baseURL = 'https://divine0314.github.io/'
+locale = 'en-us'
+title = "divine's blog"
+theme = "PaperMod"
